@@ -1,5 +1,8 @@
 # WebSraping elenco do Flamengo!
 
+### Função:
+Listar jogadores do elenco do flamengo por posição.
+
 Dados extraídos do site: https://www.flamengo.com.br/elencos/elenco-profissional
 
 
